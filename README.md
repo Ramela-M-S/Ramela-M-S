@@ -1,6 +1,6 @@
 # Hi, I'm Ramela M.S. 👋
 
-Welcome to my GitHub profile! I am a **Computer Science And Business Systems undergraduate** passionate about **Python programming, web development, and problem-solving**. I enjoy building **real-world applications** and contributing to projects that make an impact.
+Welcome to my GitHub profile! I am a **Computer Science and Business Systems undergraduate** passionate about **Python programming, web development, and problem-solving**. I enjoy building **real-world applications** and contributing to projects that make an impact.
 
 ---
 
@@ -10,6 +10,7 @@ I’m a **B.Tech student at Panimalar Engineering College** pursuing Computer Sc
 As a **Freshman selected for the Amazon Future Engineer Bootcamp**, I have strong **Python fundamentals** and hands-on experience in **Django and Flask web development**. I have built multiple Python and web-based projects, including full-stack web applications, and enjoy creating **reliable, user-focused software solutions**.
 
 I am an **enthusiastic learner**, curious about emerging technologies, and always seeking opportunities to **collaborate, innovate, and contribute to impactful projects**.
+
 ---
 
 ## 🎓 Education
@@ -27,7 +28,8 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 **Programming Languages:** Python (LeetCode, GeeksforGeeks), C  
 **Web Technologies:** Django, Flask-RESTful, Flask, Bootstrap, HTML, CSS  
 **Databases:** MySQL, Flask-SQLAlchemy  
-**Tools : **Github, VS Studio
+**Tools:** GitHub, VS Code
+
 ---
 
 ## 🏆 Professional Development
@@ -62,9 +64,8 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 
 ## 📫 Contact Me
 - Email: ramelams07@gmail.com  
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/ramela-m-s/)  
-- GitHub: [GitHub Profile](https://github.com/Ramela-M-S)  
-- Portfolio: [Your Portfolio Link](https://ramela-m-s-portfolio-production.up.railway.app/)
+- LinkedIn: [https://www.linkedin.com/in/ramela-m-s/](https://www.linkedin.com/in/ramela-m-s/)  
+- GitHub: [https://github.com/Ramela-M-S](https://github.com/Ramela-M-S)  
+- Portfolio: [https://ramela-m-s-portfolio-production.up.railway.app/](https://ramela-m-s-portfolio-production.up.railway.app/)
 
 ---
-
