@@ -69,7 +69,7 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 ## 🏅 Coding and Technical Achievements
 - **Best Coder Award – Cosmic Duel:** Recognized as Best Coder at Velammal Institute of Technology, Xemplar 2K25 (April 2025)  
 - **First Place – CodeChef Coding Competition:** Secured 1st place at Madha Engineering College, CodeChef Contest (April 2025)  
-
+- **Second Place – Decodex Coding Competition:** Meenakshi Sundararajan Engineering College, Pranav 2K25 (16 April 2025) – Achieved second place in a college-level coding competition as part of the technical fest.
 ---
 
 ## 📫 Contact Me
