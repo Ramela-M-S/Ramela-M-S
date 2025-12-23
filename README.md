@@ -43,16 +43,27 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - Built a **Django-based social feed platform** with Cloudinary for media storage.  
 - Users can **create posts, like, comment, and view updates in real-time**.  
 - **Impact:** Enabled real-time user interaction via a cloud-backed Django social platform.  
-- **Screenshots / Demo:** ![Home Page](screenshots/Home_Page.png) *(replace with actual screenshot links)*
+- **GitHub Repo:** [Social Feed Website Repo Link](https://github.com/Ramela-M-S/Social-Feed)  
+- **Screenshots / Demo:** ![Home Page](screenshots/Social_Feed_Home_Page.png) *(replace with actual screenshot links)*
 
 ### Smart Expense Tracking Website
 - Developed a **responsive expense tracker** using Flask, Flask-RESTful API, and Flask-SQLAlchemy.  
 - Users can **add, edit, and view expenses with monthly summaries**.  
 - **Impact:** Improved expense tracking and monthly analysis using RESTful APIs.  
+- **GitHub Repo:** [Smart Expense Tracking Website Repo Link](https://github.com/Ramela-M-S/Expense-Tracker-Flask-API)  
+- **Screenshots / Demo:** ![Home Page](screenshots/Smart_Expense_Tracking_Home_Page.png) *(replace with actual screenshot links)*
 
 ### Inventory and Building Management System (IBMS)
 - Built an **inventory and building management system** using Flask and Flask-SQLAlchemy for efficient recordkeeping and resource allocation.  
 - **Impact:** Streamlined inventory and billing workflows.  
+- **GitHub Repo:** [IBMS Repo Link](https://github.com/Ramela-M-S/IBMS-Inventory-System)  
+- **Screenshots / Demo:** ![Home Page](screenshots/IBMS_Home_Page.png) *(replace with actual screenshot links)*
+
+### Portfolio Website
+- Built a **personal portfolio website** using Django and Bootstrap to showcase projects, skills, and experience.  
+- **Impact:** Provided a professional online presence and easy access to projects and contact information.  
+- **GitHub Repo:** [Portfolio Repo Link](https://github.com/Ramela-M-S/Portfolio)  
+- **Screenshots / Demo:** ![Home Page](screenshots/Portfolio_Home_Page.png) *(replace with actual screenshot links)*
 
 ---
 
@@ -67,5 +78,3 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - LinkedIn: [https://www.linkedin.com/in/ramela-m-s/](https://www.linkedin.com/in/ramela-m-s/)  
 - GitHub: [https://github.com/Ramela-M-S](https://github.com/Ramela-M-S)  
 - Portfolio: [https://ramela-m-s-portfolio-production.up.railway.app/](https://ramela-m-s-portfolio-production.up.railway.app/)
-
----
