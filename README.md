@@ -43,25 +43,25 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - Built a **Django-based social feed platform** with Cloudinary for media storage.  
 - Users can **create posts, like, comment, and view updates in real-time**.  
 - **Impact:** Enabled real-time user interaction via a cloud-backed Django social platform.  
-- **GitHub Repo:** [Social Feed Website Repo Link](https://github.com/Ramela-M-S/Social-Feed)  
+- **GitHub Repo:** [Social Feed Website Repo Link](https://github.com/Ramela-M-S/Social-Feed/blob/main/README.md)  
 - **Screenshots / Demo:** ![Home Page](screenshots/Social_Feed_Home_Page.png)
 
 ### Smart Expense Tracking Website
 - Developed a **responsive expense tracker** using Flask, Flask-RESTful API, and Flask-SQLAlchemy.  
 - Users can **add, edit, and view expenses with monthly summaries**.  
 - **Impact:** Improved expense tracking and monthly analysis using RESTful APIs.  
-- **GitHub Repo:** [Smart Expense Tracking Website Repo Link](https://github.com/Ramela-M-S/Expense-Tracker-Flask-API-)
+- **GitHub Repo:** [Smart Expense Tracking Website Repo Link](https://github.com/Ramela-M-S/Expense-Tracker-Flask-API-/blob/main/README.md)
 - **Screenshots / Demo:** ![Home Page](screenshots/Smart_Expense_Tracking_Home_Page.png) 
 
 ### Inventory and Building Management System (IBMS)
 - Built an **inventory and building management system** using Flask and Flask-SQLAlchemy for efficient recordkeeping and resource allocation.  
 - **Impact:** Streamlined inventory and billing workflows.  
-- **GitHub Repo:** [IBMS Repo Link](https://github.com/Ramela-M-S/IBMS-Inventory-System)  
+- **GitHub Repo:** [IBMS Repo Link](https://github.com/Ramela-M-S/IBMS-Inventory-System/blob/main/README.md)  
 - **Screenshots / Demo:** ![Home Page](screenshots/IBMS_Home_Page.png)
 ### Portfolio Website
 - Built a **personal portfolio website** using Django and Bootstrap to showcase projects, skills, and experience.  
 - **Impact:** Provided a professional online presence and easy access to projects and contact information.  
-- **GitHub Repo:** [Portfolio Repo Link](https://github.com/Ramela-M-S/Personal-Portfolio)
+- **GitHub Repo:** [Portfolio Repo Link](https://github.com/Ramela-M-S/Personal-Portfolio/blob/main/README.md)
 - **Screenshots / Demo:** ![Home Page](screenshots/Portfolio_Home_Page.png) 
 
 ---
@@ -76,4 +76,4 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - Email: ramelams07@gmail.com  
 - LinkedIn: [LinkedIn Profile Page](https://www.linkedin.com/in/ramela-m-s/)  
 - GitHub: [GitHub Profile Page](https://github.com/Ramela-M-S)  
-- Portfolio: [ Portfolio Page](https://ramela-m-s-portfolio-production.up.railway.app/)
+- Portfolio: [ Portfolio Page](https://github.com/Ramela-M-S/Personal-Portfolio/blob/main/README.md)
