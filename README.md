@@ -16,7 +16,7 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 ## 🎓 Education
 **Panimalar Engineering College** – B.Tech CSBS  
 - Duration: 2024 – 2028  
-- Academic Excellence: CGPA 9.09  
+- Academic Excellence: CGPA 8.96 
 
 **Velammal Vidyalaya** – Higher Secondary (CBSE)  
 - Grade: 9.4 CGPA (2024)
