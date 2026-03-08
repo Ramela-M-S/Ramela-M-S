@@ -1,6 +1,6 @@
 # Hi, I'm Ramela M.S. 👋
 
-Welcome to my GitHub profile! I am a **Computer Science and Business Systems undergraduate** passionate about **Python programming, web development, and problem-solving**. I enjoy building **real-world applications** and contributing to projects that make an impact.
+Welcome to my GitHub profile! I am a **Computer Science and Business Systems undergraduate** passionate about **Python programming, Backend development, and problem-solving**. I enjoy building **real-world applications** and contributing to projects that make an impact.
 
 ---
 
