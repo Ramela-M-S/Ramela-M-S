@@ -39,6 +39,25 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 
 ## 📂 Personal Projects
 
+## 🏦 Smart Bank Queue Optimization System
+
+- Built a **Flask-based full-stack Smart Bank Queue Optimization Web Application** with role-based access control and secure authentication.
+- Users can **generate tokens, track queue status, and view estimated waiting times**, while staff and admin manage customer flow efficiently.
+- **Impact:** Improved queue management efficiency, reduced waiting time, and enhanced service coordination in banking environments.
+- **GitHub Repo:** [Smart Bank Queue Optimization System Repo Link](https://github.com/Ramela-M-S/Smart-Bank-Queue-Optimizer)
+- **Screenshots / Demo:**
+  ![Home Page](screenshots/Smart Bank Queue Optimizer.png)
+
+## 💰 Finance Dashboard System
+
+- Built a **Flask-based full-stack Finance Dashboard Web Application** with role-based access control and secure authentication.
+- Users can **create, manage, and track financial records** while viewing insights through a structured dashboard.
+- **Impact:** Improved financial tracking and decision-making through a structured role-based dashboard system.
+- **GitHub Repo:** [Finance Dashboard System Repo Link](https://github.com/Ramela-M-S/Finance-Dashboard-System/blob/main/README.md)
+- **Screenshots / Demo:**
+  ![Home Page](screenshots/Finanace DashBoard System.png)
+
+
 ### Social Feed Website
 - Built a **Django-based social feed platform** with Cloudinary for media storage.  
 - Users can **create posts, like, comment, and view updates in real-time**.  
