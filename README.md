@@ -46,7 +46,7 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - **Impact:** Improved queue management efficiency, reduced waiting time, and enhanced service coordination in banking environments.
 - **GitHub Repo:** [Smart Bank Queue Optimization System Repo Link](https://github.com/Ramela-M-S/Smart-Bank-Queue-Optimizer)
 - **Screenshots / Demo:**
-  ![Home Page](screenshots/Smart Bank Queue Optimizer.png)
+  ![Home Page](screenshots/Smart_Bank_Queue_Optimizer.png)
 
 ## 💰 Finance Dashboard System
 
@@ -55,7 +55,7 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - **Impact:** Improved financial tracking and decision-making through a structured role-based dashboard system.
 - **GitHub Repo:** [Finance Dashboard System Repo Link](https://github.com/Ramela-M-S/Finance-Dashboard-System/blob/main/README.md)
 - **Screenshots / Demo:**
-  ![Home Page](screenshots/Finanace DashBoard System.png)
+  ![Home Page](screenshots/Finanace_DashBoard_System.png)
 
 
 ### Social Feed Website
