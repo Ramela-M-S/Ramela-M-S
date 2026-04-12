@@ -44,7 +44,7 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - Built a **Flask-based full-stack Smart Bank Queue Optimization Web Application** with role-based access control and secure authentication.
 - Users can **generate tokens, track queue status, and view estimated waiting times**, while staff and admin manage customer flow efficiently.
 - **Impact:** Improved queue management efficiency, reduced waiting time, and enhanced service coordination in banking environments.
-- **GitHub Repo:** [Smart Bank Queue Optimization System Repo Link](https://github.com/Ramela-M-S/Smart-Bank-Queue-Optimizer)
+- **GitHub Repo:** [Smart Bank Queue Optimization System Repo Link](https://github.com/Ramela-M-S/Smart-Bank-Queue-Optimizer/blob/main/README.md)
 - **Screenshots / Demo:**
   ![Home Page](screenshots/Smart_Bank_Queue_Optimizer.png)
 
