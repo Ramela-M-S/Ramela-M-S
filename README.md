@@ -95,6 +95,11 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 ---
 
 ## 🏅 Coding and Technical Achievements
+- **First Place – Let’s C Coding Competition:** Won 1st Prize at Madras Institute of Technology in the Let’s C Coding Event (26 February 2026)  
+- **First Place – CodeBack Coding Competition:** Won 1st Prize at Chennai Institute of Technology in the CodeBack Coding Event (5 February 2026)  
+- **Second Place – Code Euphoria Coding Competition:** Secured 2nd Prize at Chennai Institute of Technology in the Code Euphoria Event (2 February 2026)  
+- **First Place – Code Relay Competition:** Won 1st Prize at Vel Tech Multi Tech Engineering College in the Code Relay Event (18 March 2026)  
+- **Second Place – QuizStorm Quiz Competition:** Secured 2nd Prize at Vel Tech Multi Tech Engineering College in the QuizStorm Event (20 February 2026)
 - **Best Coder Award – Cosmic Duel:** Recognized as Best Coder at Velammal Institute of Technology, Xemplar 2K25 (April 2025)  
 - **First Place – CodeChef Coding Competition:** Secured 1st place at Madha Engineering College, CodeChef Contest (April 2025)  
 - **Second Place – Decodex Coding Competition:** Meenakshi Sundararajan Engineering College, Pranav 2K25 (16 April 2025) – Achieved second place in a college-level coding competition as part of the technical fest.
