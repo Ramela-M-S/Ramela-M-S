@@ -57,6 +57,15 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - **Screenshots / Demo:**
   ![Home Page](screenshots/Finanace_DashBoard_System.png)
 
+  ## 🚛 FleetFlow - Smart Fleet Management System
+
+- Built a **Flask-based full-stack Fleet Management Web Application** with role-based access control and secure authentication.
+- Users can **manage vehicles, drivers, trips, maintenance logs, and operational expenses** through a centralized dashboard, while managers and dispatchers handle daily fleet operations efficiently.
+- **Impact:** Improved fleet tracking, reduced vehicle downtime, streamlined trip scheduling, and enhanced operational decision-making through analytics dashboards.
+- **GitHub Repo:** [FleetFlow - Smart Fleet Management System Repo Link](https://github.com/Ramela-M-S/Odoo-Fleet-Flow/blob/main/README.md)
+- **Screenshots / Demo:**  
+  ![FleetFlow Dashboard](screenshots/fleetflow_dashboard.png)
+
 
 ### Social Feed Website
 - Built a **Django-based social feed platform** with Cloudinary for media storage.  
