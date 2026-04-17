@@ -86,6 +86,7 @@ I am an **enthusiastic learner**, curious about emerging technologies, and alway
 - **Impact:** Streamlined inventory and billing workflows.  
 - **GitHub Repo:** [IBMS Repo Link](https://github.com/Ramela-M-S/IBMS-Inventory-System/blob/main/README.md)  
 - **Screenshots / Demo:** ![Home Page](screenshots/IBMS_Home_Page.png)
+  
 ### Portfolio Website
 - Built a **personal portfolio website** using Django and Bootstrap to showcase projects, skills, and experience.  
 - **Impact:** Provided a professional online presence and easy access to projects and contact information.  
