@@ -5,9 +5,7 @@
 ### 💻 CSBS Undergraduate | Python Developer | Backend Enthusiast
 
 <p align="center">
-  <a href="https://github.com/Ramela-M-S">
-    <img src="https://img.shields.io/github/followers/Ramela-M-S?label=Followers&style=for-the-badge" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/ramela-m-s/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -33,7 +31,7 @@
 - Problem Solving & Competitive Coding
 
 🚀 Selected for the **Amazon Future Engineer Bootcamp 2025**  
-🧠 Strong foundation in **Python, Flask, Django, REST APIs, and Databases**  
+🧠 Strong foundation in **Python, Flask, Django, and Databases**  
 
 I enjoy creating scalable, user-focused applications and continuously exploring emerging technologies.
 
@@ -57,7 +55,6 @@ I enjoy creating scalable, user-focused applications and continuously exploring 
 ## 🌐 Web Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![REST API](https://img.shields.io/badge/REST_API-ff6f00?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
@@ -192,40 +189,7 @@ Madha Engineering College (2025)
 🥈 **2nd Place – Decodex Coding Competition**  
 Meenakshi Sundararajan Engineering College (2025)
 
----
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramela-M-S&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramela-M-S&layout=compact&theme=tokyonight" />
-
-</div>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:ramelams07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ramela-m-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  
-  <a href="https://github.com/Ramela-M-S">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### ✨ “Building skills, solving problems, and growing one project at a time.” ✨
-
-</div>
