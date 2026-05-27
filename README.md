@@ -1,113 +1,231 @@
-# Hi, I'm Ramela M.S. 👋
+<div align="center">
 
-Welcome to my GitHub profile! I am a **Computer Science and Business Systems undergraduate** passionate about **Python programming, Backend development, and problem-solving**. I enjoy building **real-world applications** and contributing to projects that make an impact.
+# 👋 Hey there, I'm Ramela M.S.
 
----
+### 💻 CSBS Undergraduate | Python Developer | Backend Enthusiast
 
-## 📌 About Me
-I’m a **B.Tech student at Panimalar Engineering College** pursuing Computer Science & Business Systems. I have a strong passion for **software development, problem-solving, and building user-friendly applications**.
+<p align="center">
+  <a href="https://github.com/Ramela-M-S">
+    <img src="https://img.shields.io/github/followers/Ramela-M-S?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ramela-m-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ramelams07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-As a **Freshman selected for the Amazon Future Engineer Bootcamp**, I have strong **Python fundamentals** and hands-on experience in **Django and Flask web development**. I have built multiple Python and web-based projects, including full-stack web applications, and enjoy creating **reliable, user-focused software solutions**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Development+Enthusiast;Flask+%7C+Django+Developer;Problem+Solver+%7C+Tech+Explorer" />
 
-I am an **enthusiastic learner**, curious about emerging technologies, and always seeking opportunities to **collaborate, innovate, and contribute to impactful projects**.
-
----
-
-## 🎓 Education
-**Panimalar Engineering College** – B.Tech CSBS  
-- Duration: 2024 – 2028  
-- Academic Excellence: CGPA 8.96 
-
-**Velammal Vidyalaya** – Higher Secondary (CBSE)  
-- Grade: 9.4 CGPA (2024)
-
----
-
-## 💻 Skills
-
-**Programming Languages:** Python (LeetCode, GeeksforGeeks), C  
-**Web Technologies:** Django, Flask-RESTful, Flask, Bootstrap, HTML, CSS  
-**Databases:** MySQL, Flask-SQLAlchemy  
-**Tools:** GitHub, VS Code
+</div>
 
 ---
 
-## 🏆 Professional Development
-- **Amazon Future Engineer Bootcamp 2025** – Selected for Phase 1, focused on **Python, AI basics, and problem-solving techniques**.
+# 🌟 About Me
+
+🎓 B.Tech student in **Computer Science & Business Systems** at **Panimalar Engineering College**  
+
+💡 Passionate about:
+- Backend Development
+- Python Programming
+- Building Real-World Applications
+- Problem Solving & Competitive Coding
+
+🚀 Selected for the **Amazon Future Engineer Bootcamp 2025**  
+🧠 Strong foundation in **Python, Flask, Django, REST APIs, and Databases**  
+
+I enjoy creating scalable, user-focused applications and continuously exploring emerging technologies.
 
 ---
 
-## 📂 Personal Projects
+# 🎓 Education
+
+| Institution | Qualification | Duration | Performance |
+|---|---|---|---|
+| Panimalar Engineering College | B.Tech CSBS | 2024 – 2028 | CGPA: 8.96 |
+| Velammal Vidyalaya | Higher Secondary (CBSE) | 2024 | 9.4 CGPA |
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## 🌐 Web Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![REST API](https://img.shields.io/badge/REST_API-ff6f00?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+## 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+# 🏆 Professional Development
+
+### 🌟 Amazon Future Engineer Bootcamp 2025
+- Selected for **Phase 1**
+- Focused on:
+  - Python Programming
+  - AI Fundamentals
+  - Problem Solving Techniques
+
+---
+
+# 🚀 Featured Projects
 
 ## 🏦 Smart Bank Queue Optimization System
 
-- Built a **Flask-based full-stack Smart Bank Queue Optimization Web Application** with role-based access control and secure authentication.
-- Users can **generate tokens, track queue status, and view estimated waiting times**, while staff and admin manage customer flow efficiently.
-- **Impact:** Improved queue management efficiency, reduced waiting time, and enhanced service coordination in banking environments.
-- **GitHub Repo:** [Smart Bank Queue Optimization System Repo Link](https://github.com/Ramela-M-S/Smart-Bank-Queue-Optimizer/blob/main/README.md)
-- **Screenshots / Demo:**
-  ![Home Page](screenshots/Smart_Bank_Queue_Optimizer.png)
+🔹 Flask-based full-stack banking queue management system  
+🔹 Role-based authentication & token management  
+🔹 Queue tracking with estimated waiting times  
+
+### ✨ Impact
+Improved queue efficiency and customer service coordination.
+
+🔗 [View Project](https://github.com/Ramela-M-S/Smart-Bank-Queue-Optimizer)
+
+---
 
 ## 💰 Finance Dashboard System
 
-- Built a **Flask-based full-stack Finance Dashboard Web Application** with role-based access control and secure authentication.
-- Users can **create, manage, and track financial records** while viewing insights through a structured dashboard.
-- **Impact:** Improved financial tracking and decision-making through a structured role-based dashboard system.
-- **GitHub Repo:** [Finance Dashboard System Repo Link](https://github.com/Ramela-M-S/Finance-Dashboard-System/blob/main/README.md)
-- **Screenshots / Demo:**
-  ![Home Page](screenshots/Finanace_DashBoard_System.png)
+🔹 Full-stack finance management dashboard using Flask  
+🔹 Secure authentication & role-based access  
+🔹 Financial tracking with structured analytics  
 
-  ## 🚛 FleetFlow - Smart Fleet Management System
+### ✨ Impact
+Enhanced financial monitoring and decision-making.
 
-- Built a **Flask-based full-stack Fleet Management Web Application** with role-based access control and secure authentication.
-- Users can **manage vehicles, drivers, trips, maintenance logs, and operational expenses** through a centralized dashboard, while managers and dispatchers handle daily fleet operations efficiently.
-- **Impact:** Improved fleet tracking, reduced vehicle downtime, streamlined trip scheduling, and enhanced operational decision-making through analytics dashboards.
-- **GitHub Repo:** [FleetFlow - Smart Fleet Management System Repo Link](https://github.com/Ramela-M-S/Odoo-Fleet-Flow/blob/main/README.md)
-- **Screenshots / Demo:**  
-  ![FleetFlow Dashboard](screenshots/fleetflow_dashboard.png)
+🔗 [View Project](https://github.com/Ramela-M-S/Finance-Dashboard-System)
 
+---
 
-### Social Feed Website
-- Built a **Django-based social feed platform** with Cloudinary for media storage.  
-- Users can **create posts, like, comment, and view updates in real-time**.  
-- **Impact:** Enabled real-time user interaction via a cloud-backed Django social platform.  
-- **GitHub Repo:** [Social Feed Website Repo Link](https://github.com/Ramela-M-S/Social-Feed/blob/main/README.md)  
-- **Screenshots / Demo:** ![Home Page](screenshots/Social_Feed_Home_Page.png)
+## 🚛 FleetFlow – Smart Fleet Management System
 
-### Smart Expense Tracking Website
-- Developed a **responsive expense tracker** using Flask, Flask-RESTful API, and Flask-SQLAlchemy.  
-- Users can **add, edit, and view expenses with monthly summaries**.  
-- **Impact:** Improved expense tracking and monthly analysis using RESTful APIs.  
-- **GitHub Repo:** [Smart Expense Tracking Website Repo Link](https://github.com/Ramela-M-S/Expense-Tracker-Flask-API-/blob/main/README.md)
-- **Screenshots / Demo:** ![Home Page](screenshots/Smart_Expense_Tracking_Home_Page.png) 
+🔹 Fleet management application with centralized dashboard  
+🔹 Manage vehicles, drivers, maintenance & expenses  
+🔹 Analytics-driven operational management  
 
-### Inventory and Building Management System (IBMS)
-- Built an **inventory and building management system** using Flask and Flask-SQLAlchemy for efficient recordkeeping and resource allocation.  
-- **Impact:** Streamlined inventory and billing workflows.  
-- **GitHub Repo:** [IBMS Repo Link](https://github.com/Ramela-M-S/IBMS-Inventory-System/blob/main/README.md)  
-- **Screenshots / Demo:** ![Home Page](screenshots/IBMS_Home_Page.png)
+### ✨ Impact
+Reduced downtime and improved operational efficiency.
+
+🔗 [View Project](https://github.com/Ramela-M-S/Odoo-Fleet-Flow)
+
+---
+
+## 🌐 Social Feed Website
+
+🔹 Django-based social platform with Cloudinary integration  
+🔹 Real-time posts, likes, comments & updates  
+
+### ✨ Impact
+Enabled interactive social engagement with cloud-backed storage.
+
+🔗 [View Project](https://github.com/Ramela-M-S/Social-Feed)
+
+---
+
+## 💸 Smart Expense Tracking Website
+
+🔹 Flask RESTful API based expense tracker  
+🔹 Monthly summaries and expense analytics  
+
+### ✨ Impact
+Improved expense tracking and financial analysis.
+
+🔗 [View Project](https://github.com/Ramela-M-S/Expense-Tracker-Flask-API-)
+
+---
+
+## 🏢 Inventory & Building Management System
+
+🔹 Flask + SQLAlchemy based management platform  
+🔹 Resource allocation and inventory record management  
+
+### ✨ Impact
+Streamlined inventory and billing workflows.
+
+🔗 [View Project](https://github.com/Ramela-M-S/IBMS-Inventory-System)
+
+---
+
+## 🌐 Portfolio Website
+
+🔹 Personal portfolio built with Django & Bootstrap  
+🔹 Showcases projects, skills, and experience  
+
+🔗 [View Project](https://github.com/Ramela-M-S/Personal-Portfolio)
+
+---
+
+# 🏅 Achievements
+
+🏆 **1st Place – Let’s C Coding Competition**  
+Madras Institute of Technology (2026)
+
+🏆 **1st Place – CodeBack Coding Competition**  
+Chennai Institute of Technology (2026)
+
+🥈 **2nd Place – Code Euphoria Coding Competition**  
+Chennai Institute of Technology (2026)
+
+🏆 **1st Place – Code Relay Competition**  
+Vel Tech Multi Tech Engineering College (2026)
+
+🥈 **2nd Place – QuizStorm Quiz Competition**  
+Vel Tech Multi Tech Engineering College (2026)
+
+🏅 **Best Coder Award – Cosmic Duel**  
+Velammal Institute of Technology (2025)
+
+🏆 **1st Place – CodeChef Coding Competition**  
+Madha Engineering College (2025)
+
+🥈 **2nd Place – Decodex Coding Competition**  
+Meenakshi Sundararajan Engineering College (2025)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramela-M-S&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramela-M-S&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:ramelams07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   
-### Portfolio Website
-- Built a **personal portfolio website** using Django and Bootstrap to showcase projects, skills, and experience.  
-- **Impact:** Provided a professional online presence and easy access to projects and contact information.  
-- **GitHub Repo:** [Portfolio Repo Link](https://github.com/Ramela-M-S/Personal-Portfolio/blob/main/README.md)
-- **Screenshots / Demo:** ![Home Page](screenshots/Portfolio_Home_Page.png) 
+  <a href="https://www.linkedin.com/in/ramela-m-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="https://github.com/Ramela-M-S">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## 🏅 Coding and Technical Achievements
-- **First Place – Let’s C Coding Competition:** Won 1st Prize at Madras Institute of Technology in the Let’s C Coding Event (26 February 2026)  
-- **First Place – CodeBack Coding Competition:** Won 1st Prize at Chennai Institute of Technology in the CodeBack Coding Event (5 February 2026)  
-- **Second Place – Code Euphoria Coding Competition:** Secured 2nd Prize at Chennai Institute of Technology in the Code Euphoria Event (2 February 2026)  
-- **First Place – Code Relay Competition:** Won 1st Prize at Vel Tech Multi Tech Engineering College in the Code Relay Event (18 March 2026)  
-- **Second Place – QuizStorm Quiz Competition:** Secured 2nd Prize at Vel Tech Multi Tech Engineering College in the QuizStorm Event (20 February 2026)
-- **Best Coder Award – Cosmic Duel:** Recognized as Best Coder at Velammal Institute of Technology, Xemplar 2K25 (April 2025)  
-- **First Place – CodeChef Coding Competition:** Secured 1st place at Madha Engineering College, CodeChef Contest (April 2025)  
-- **Second Place – Decodex Coding Competition:** Meenakshi Sundararajan Engineering College, Pranav 2K25 (16 April 2025) – Achieved second place in a college-level coding competition as part of the technical fest.
----
+<div align="center">
 
-## 📫 Contact Me
-- Email: ramelams07@gmail.com  
-- LinkedIn: [LinkedIn Profile Page](https://www.linkedin.com/in/ramela-m-s/)  
-- GitHub: [GitHub Profile Page](https://github.com/Ramela-M-S)  
-- Portfolio: [ Portfolio Page](https://github.com/Ramela-M-S/Personal-Portfolio/blob/main/README.md)
+### ✨ “Building skills, solving problems, and growing one project at a time.” ✨
+
+</div>
