@@ -51,8 +51,8 @@
 | **Languages** | Python, Java, C, SQL |
 | **Backend Frameworks** | Django, FastAPI, Flask, Celery, RESTful APIs, WebSockets (*Flask-SocketIO*) |
 | **Databases & Caching** | PostgreSQL, Redis (*Caching, Distributed Locks, Pub/Sub*), MySQL, SQLAlchemy, SQLModel |
-| **Core CS & Systems** | Data Structures & Algorithms, Concurrency & Mutexes, Atomic SQL `F()` Expressions, Compound B-Tree Indexing, N+1 Query Elimination, Read-Through Caching, RBAC |
-| **DevOps & Tooling** | Docker, Git, GitHub, Pytest, Postman |
+| **Core CS & Systems** | Data Structures & Algorithms, Multi-Threading, Concurrency & Mutexes, Atomic SQL `F()` Expressions, Compound B-Tree Indexing, N+1 Query Elimination, Read-Through Caching, RBAC |
+| **DevOps & Tooling** | Git, GitHub, Pytest, Postman |
 
 ---
 
