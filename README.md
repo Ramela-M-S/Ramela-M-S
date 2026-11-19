@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ramela-M-S&color=fe428e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
 
 </div>
 
