@@ -28,8 +28,8 @@
 ### 🌟 Key Honors & Engineering Distinctions
 
 * 🎓 **AnitaB.org GHCI 2027 Scholar:** Selected for the competitive *Advancing Inclusion Program (AIP)* fellowship to attend Grace Hopper Celebration India 2027 with a sponsored conference pass.
-* 🚀 **Amazon Future Engineer (AFE) Cohort (2025):** Selected through nationwide evaluation; gained practical foundations in Python programming, real-world application examples, and AI basics.
-* 🥇 **NPTEL Elite + Gold Medal (IIT Ropar):** Secured a **perfect 100/100 score** in *The Joy of Computing Using Python*.
+* 🚀 **Amazon Future Engineer (AFE) Cohort (2025):** Selected through nationwide evaluation; gained practical foundations in Python programming, real-world application examples, and AI basics ([View Certificate](https://drive.google.com/file/d/1itF04qIP-bEBbpGLdeOtTFzkvyelCNF9/view?usp=sharing)).
+* 🥇 **NPTEL Elite + Gold Medal (IIT Ropar):** Secured a **perfect 100/100 score** in *The Joy of Computing Using Python* ([View Certificate](https://drive.google.com/file/d/17Gl5XZxMzYIhilMK8f9YDlUl9fASgtwI/view?usp=sharing)).
 * 💡 **Problem-Solving Scale:** Solved **900+ algorithmic problems** across LeetCode & GeeksforGeeks.
 * 🏆 **Competitive Programming Victories:** Won **10+ inter-collegiate coding competitions** across Tamil Nadu.
 
