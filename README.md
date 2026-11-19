@@ -1,195 +1,114 @@
 <div align="center">
 
-# 👋 Hey there, I'm Ramela M.S.
+# Hi there, I'm Ramela M S 👋
 
-### 💻 CSBS Undergraduate | Python Developer | Backend Enthusiast
+### Backend Systems & Distributed Architecture | AnitaB.org GHCI '27 Scholar | Amazon Future Engineer '25
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/ramela-m-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-ramela--m--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ramelams07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="https://leetcode.com/u/Ramela_M_S/">
+    <img src="https://img.shields.io/badge/LeetCode-Ramela__M__S-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://ramela-m-s-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:msramelasde@gmail.com">
+    <img src="https://img.shields.io/badge/Email-msramelasde%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Development+Enthusiast;Flask+%7C+Django+Developer;Problem+Solver+%7C+Tech+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1000&color=E60023&center=true&vCenter=true&width=750&lines=Backend+Systems+%26+Distributed+Architecture;AnitaB.org+GHCI+'27+Scholar;Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;900%2B+Problems+Solved+%7C+Competitive+Coder" />
 
 </div>
 
 ---
 
-# 🌟 About Me
+### 🌟 Key Honors & Engineering Distinctions
 
-🎓 B.Tech student in **Computer Science & Business Systems** at **Panimalar Engineering College**  
-
-💡 Passionate about:
-- Backend Development
-- Python Programming
-- Building Real-World Applications
-- Problem Solving & Competitive Coding
-
-🚀 Selected for the **Amazon Future Engineer Bootcamp 2025**  
-🧠 Strong foundation in **Python, Flask, Django, and Databases**  
-
-I enjoy creating scalable, user-focused applications and continuously exploring emerging technologies.
+* 🎓 **AnitaB.org GHCI 2027 Scholar:** Selected for the competitive *Advancing Inclusion Program (AIP)* fellowship to attend Grace Hopper Celebration India 2027 with a sponsored conference pass.
+* 🚀 **Amazon Future Engineer (AFE) Cohort (2025):** Selected through nationwide evaluation; completed intensive curriculum in Python, algorithmic problem solving, and AI fundamentals.
+* 🥇 **NPTEL Elite + Gold Medal (IIT Ropar):** Secured a **perfect 100/100 score** in *The Joy of Computing Using Python*.
+* 💡 **Problem-Solving Scale:** Solved **900+ algorithmic problems** across LeetCode & GeeksforGeeks.
+* 🏆 **Competitive Programming Victories:** Won **10+ inter-collegiate coding competitions** across Tamil Nadu.
 
 ---
 
-# 🎓 Education
+### 🎓 Education
 
-| Institution | Qualification | Duration | Performance |
-|---|---|---|---|
-| Panimalar Engineering College | B.Tech CSBS | 2024 – 2028 | CGPA: 8.96 |
-| Velammal Vidyalaya | Higher Secondary (CBSE) | 2024 | 9.4 CGPA |
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-## 🌐 Web Development
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-## 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+| Institution | Degree / Certificate | Duration | Performance |
+| :--- | :--- | :--- | :--- |
+| **Panimalar Engineering College**, Chennai | B.E. in Computer Science & Business Systems | 2024 – 2028 | **CGPA: 8.96 / 10.0** |
+| **Velammal Vidyalaya**, Chennai | Higher Secondary Certificate (CBSE Class XII) | 2024 | **9.4 CGPA** |
 
 ---
 
-# 🏆 Professional Development
+### 🛠️ Technical Skills
 
-### 🌟 Amazon Future Engineer Bootcamp 2025
-- Selected for **Phase 1**
-- Focused on:
-  - Python Programming
-  - AI Fundamentals
-  - Problem Solving Techniques
-
----
-
-# 🚀 Featured Projects
-
-## 🏦 Smart Bank Queue Optimization System
-
-🔹 Flask-based full-stack banking queue management system  
-🔹 Role-based authentication & token management  
-🔹 Queue tracking with estimated waiting times  
-
-### ✨ Impact
-Improved queue efficiency and customer service coordination.
-
-🔗 [View Project](https://github.com/Ramela-M-S/Smart-Bank-Queue-Optimizer)
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | Python, Java, C, SQL, JavaScript |
+| **Backend & APIs** | Django, FastAPI, Flask, Celery, RESTful APIs, WebSockets (*Flask-SocketIO*) |
+| **Databases & Caching** | PostgreSQL, Redis (*Caching, Distributed Locks, Pub/Sub*), MySQL, SQLAlchemy, SQLModel |
+| **Core CS & Architecture** | Data Structures & Algorithms, Concurrency & Mutexes, Atomic SQL `F()` Expressions, Compound B-Tree Indexing, N+1 Query Elimination, Read-Through Caching, RBAC |
+| **DevOps & Tooling** | Docker, Git, GitHub, Pytest, Linux/Bash, Cloudinary CDN, Postman |
 
 ---
 
-## 💰 Finance Dashboard System
+### 🚀 Featured Engineering Projects
 
-🔹 Full-stack finance management dashboard using Flask  
-🔹 Secure authentication & role-based access  
-🔹 Financial tracking with structured analytics  
+#### 🍙 [Musibi 結び — Intra-Campus Academic & Collaboration Platform](https://github.com/Ramela-M-S/Musibi)
+*High-performance, multi-tenant university network with verified college passkeys, category channels, and course document sharing.*
+* **Query Optimization:** Eliminated N+1 query bottlenecks via compound B-Tree indexes and `select_related` relational JOINs, cutting query volume by **75%–96%**.
+* **High-Speed Caching:** Designed an in-memory read-through Redis cache layer with event-driven Django signals, achieving a **200x latency speedup (from 1.61 ms down to 0.008 ms)**.
+* **Concurrency Safety:** Enforced atomic SQL `F()` expressions for post upvoting, guaranteeing **100% write integrity with 0% data loss** under concurrent client clicks.
+* **Architecture & Verification:** Features a native Mermaid system architecture diagram and an automated benchmark verification harness (`run_benchmarks.py`).
 
-### ✨ Impact
-Enhanced financial monitoring and decision-making.
+#### 📦 [DispatchPulse — Asynchronous Logistics & Dispatch Engine](https://github.com/Ramela-M-S/DispatchPulse)
+*Asynchronous logistics platform built with FastAPI, PostgreSQL, and distributed Celery workers.*
+* **Decoupled Heavy I/O:** Orchestrated distributed Celery task queues with Redis message brokers for transactional Twilio SMS and email dispatch, **reducing API response latency by 65%**.
+* **Distributed Idempotency:** Enforced idempotent order transitions using **Redis distributed locks (`SETNX`)**, eliminating **100% of duplicate shipment triggers** during client retries.
+* **Reliability:** Built with 3-tier RBAC, OAuth2/JWT session blacklisting, and **92%+ Pytest test coverage**.
 
-🔗 [View Project](https://github.com/Ramela-M-S/Finance-Dashboard-System)
-
----
-
-## 🚛 FleetFlow – Smart Fleet Management System
-
-🔹 Fleet management application with centralized dashboard  
-🔹 Manage vehicles, drivers, maintenance & expenses  
-🔹 Analytics-driven operational management  
-
-### ✨ Impact
-Reduced downtime and improved operational efficiency.
-
-🔗 [View Project](https://github.com/Ramela-M-S/Odoo-Fleet-Flow)
+#### 🏦 [SmartBank OptiQueue — Concurrency-Safe Queue Optimization System](https://github.com/Ramela-M-S/Smart-Bank-Queue-Optimizer)
+*Queue management and wait-time prediction platform for high-traffic banking lobbies.*
+* **Concurrency Synchronization:** Eliminated race conditions and duplicate token collisions via thread mutexes, validated through a **30-worker stress test with 0 collisions at 26.7 req/sec**.
+* **Applied Queueing Theory:** Formulated dynamic wait-time estimation utilizing an **M/M/c multi-server queue model (Little's Law)** and rolling Average Handling Time (AHT), reducing prediction variance by **35%**.
+* **Full-Duplex Dispatch:** Integrated `Flask-SocketIO` WebSockets and Web Speech API for real-time zero-refresh lobby audio dispatch with an anti-starvation priority queue.
 
 ---
 
-## 🌐 Social Feed Website
+### 🏆 Coding Competitions & Hackathon Honors
 
-🔹 Django-based social platform with Cloudinary integration  
-🔹 Real-time posts, likes, comments & updates  
-
-### ✨ Impact
-Enabled interactive social engagement with cloud-backed storage.
-
-🔗 [View Project](https://github.com/Ramela-M-S/Social-Feed)
-
----
-
-## 💸 Smart Expense Tracking Website
-
-🔹 Flask RESTful API based expense tracker  
-🔹 Monthly summaries and expense analytics  
-
-### ✨ Impact
-Improved expense tracking and financial analysis.
-
-🔗 [View Project](https://github.com/Ramela-M-S/Expense-Tracker-Flask-API-)
+* 🥇 **1st Place** — *LET'S C*, Madras Institute of Technology (MIT Chennai)
+* 🥇 **1st Place** — *ISPC Competitive Programming*, Evente'26, Shiv Nadar University (SNU)
+* 🥇 **1st Place** — *CODE BACK*, Zorphix Symposium, Chennai Institute of Technology (CIT)
+* 🥇 **1st Place** — *Martian Chronicles*, GENESIS'26 National Symposium, SRM IST Vadapalani
+* 🥇 **1st Place** — *SPIDER SPRINT*, EXPLORE'26 Symposium, Loyola-ICAM (LICET)
+* 🥇 **1st Place** — *Code Relay*, Vel Tech Multi Tech Engineering College
+* 🥇 **1st Place** — *CodeChef Coding Competition*, Madha Engineering College
+* 🥈 **2nd Prize** — *Codolympics*, Evente'26 Symposium, SSN College of Engineering
+* 🥈 **2nd Place** — *CODE EUPHORIA*, Magnus Technical Symposium, Chennai Institute of Technology (CIT)
+* 🥈 **2nd Place** — *QuizStorm*, Vel Tech Multi Tech Engineering College
+* 🥈 **2nd Place** — *Decodex*, Meenakshi Sundararajan Engineering College
+* 🏅 **Best Coder Award** — *Cosmic Duel*, Velammal Institute of Technology
 
 ---
 
-## 🏢 Inventory & Building Management System
+### 📊 GitHub & Problem-Solving Analytics
 
-🔹 Flask + SQLAlchemy based management platform  
-🔹 Resource allocation and inventory record management  
-
-### ✨ Impact
-Streamlined inventory and billing workflows.
-
-🔗 [View Project](https://github.com/Ramela-M-S/IBMS-Inventory-System)
-
----
-
-## 🌐 Portfolio Website
-
-🔹 Personal portfolio built with Django & Bootstrap  
-🔹 Showcases projects, skills, and experience  
-
-🔗 [View Project](https://github.com/Ramela-M-S/Personal-Portfolio)
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ramela-M-S&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramela-M-S&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <br/><br/>
+  <a href="https://leetcode.com/u/Ramela_M_S/">
+    <img src="https://leetcard.jacoblin.cool/Ramela_M_S?theme=dark&font=Plus%20Jakarta%20Sans&ext=activity" alt="Ramela's LeetCode Stats" />
+  </a>
+</div>
 
 ---
 
-# 🏅 Achievements
-
-🏆 **1st Place – Let’s C Coding Competition**  
-Madras Institute of Technology (2026)
-
-🏆 **1st Place – CodeBack Coding Competition**  
-Chennai Institute of Technology (2026)
-
-🥈 **2nd Place – Code Euphoria Coding Competition**  
-Chennai Institute of Technology (2026)
-
-🏆 **1st Place – Code Relay Competition**  
-Vel Tech Multi Tech Engineering College (2026)
-
-🥈 **2nd Place – QuizStorm Quiz Competition**  
-Vel Tech Multi Tech Engineering College (2026)
-
-🏅 **Best Coder Award – Cosmic Duel**  
-Velammal Institute of Technology (2025)
-
-🏆 **1st Place – CodeChef Coding Competition**  
-Madha Engineering College (2025)
-
-🥈 **2nd Place – Decodex Coding Competition**  
-Meenakshi Sundararajan Engineering College (2025)
-
-
-
----
-
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://linkedin.com/in/ramela-m-s/">Ramela M S</a> • Open to Software Engineering Internships & Opportunities</sub>
+</div>
