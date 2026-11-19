@@ -2,24 +2,24 @@
 
 # Hi there, I'm Ramela M S 👋
 
-### Backend Systems & Distributed Architecture | AnitaB.org GHCI '27 Scholar | Amazon Future Engineer '25
+<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=750&lines=Backend+Systems+%26+Distributed+Architecture;AnitaB.org+GHCI+'27+Scholar;Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;900%2B+Problems+Solved+%7C+Competitive+Coder" alt="Typing Banner" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramela-m-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-ramela--m--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Ramela_M_S/">
-    <img src="https://img.shields.io/badge/LeetCode-Ramela__M__S-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://ramela-m-s-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:msramelasde@gmail.com">
-    <img src="https://img.shields.io/badge/Email-msramelasde%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1000&color=E60023&center=true&vCenter=true&width=750&lines=Backend+Systems+%26+Distributed+Architecture;AnitaB.org+GHCI+'27+Scholar;Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;900%2B+Problems+Solved+%7C+Competitive+Coder" />
+<img src="https://komarev.com/ghpvc/?username=Ramela-M-S&color=fe428e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -44,14 +44,14 @@
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Skills & Toolkit
 
-| Domain | Technologies & Frameworks |
+| Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | Python, Java, C, SQL, JavaScript |
-| **Backend & APIs** | Django, FastAPI, Flask, Celery, RESTful APIs, WebSockets (*Flask-SocketIO*) |
+| **Backend Frameworks** | Django, FastAPI, Flask, Celery, RESTful APIs, WebSockets (*Flask-SocketIO*) |
 | **Databases & Caching** | PostgreSQL, Redis (*Caching, Distributed Locks, Pub/Sub*), MySQL, SQLAlchemy, SQLModel |
-| **Core CS & Architecture** | Data Structures & Algorithms, Concurrency & Mutexes, Atomic SQL `F()` Expressions, Compound B-Tree Indexing, N+1 Query Elimination, Read-Through Caching, RBAC |
+| **Core CS & Systems** | Data Structures & Algorithms, Concurrency & Mutexes, Atomic SQL `F()` Expressions, Compound B-Tree Indexing, N+1 Query Elimination, Read-Through Caching, RBAC |
 | **DevOps & Tooling** | Docker, Git, GitHub, Pytest, Linux/Bash, Cloudinary CDN, Postman |
 
 ---
@@ -96,19 +96,33 @@
 
 ---
 
-### 📊 GitHub & Problem-Solving Analytics
+### 📊 Real-Time GitHub & Problem-Solving Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ramela-M-S&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramela-M-S&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-  <br/><br/>
-  <a href="https://leetcode.com/u/Ramela_M_S/">
-    <img src="https://leetcard.jacoblin.cool/Ramela_M_S?theme=dark&font=Plus%20Jakarta%20Sans&ext=activity" alt="Ramela's LeetCode Stats" />
-  </a>
+
+<a href="https://github.com/Ramela-M-S">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramela-M-S&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Ramela's GitHub Stats" />
+</a>
+<a href="https://github.com/Ramela-M-S">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramela-M-S&theme=radical&hide_border=true" alt="Ramela's GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Ramela-M-S">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramela-M-S&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Ramela_M_S/">
+  <img src="https://leetcard.jacoblin.cool/Ramela_M_S?theme=radical&font=Plus%20Jakarta%20Sans&ext=heatmap" alt="Ramela's LeetCode Stats" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://linkedin.com/in/ramela-m-s/">Ramela M S</a> • Open to Software Engineering Internships & Opportunities</sub>
+  <sub>Built with ❤️ by <a href="https://linkedin.com/in/ramela-m-s/">Ramela M S</a> • Open to Software Engineering Internships & Co-ops</sub>
 </div>
